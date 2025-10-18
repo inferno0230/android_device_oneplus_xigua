@@ -1,6 +1,5 @@
 #
-# Copyright (C) 2021-2025 The LineageOS Project
-#
+# SPDX-FileCopyrightText: The LineageOS Project
 # SPDX-License-Identifier: Apache-2.0
 #
 
@@ -23,8 +22,8 @@ PRODUCT_MODEL := PJA110
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 15 AP3A.240617.008 1757506468816 release-keys" \
-    BuildFingerprint=OnePlus/PJA110/OP5943L1:15/AP3A.240617.008/T.390fb20-195d3e4-19c330c:user/release-keys \
+    BuildDesc="qssi-user 16 BP2A.250605.015 1769690840876 release-keys" \
+    BuildFingerprint=OnePlus/PJA110/OP5943L1:16/BP2A.250605.015/T.d23ed3_153c750_152d292:user/release-keys \
     DeviceName=OP5943L1 \
     DeviceProduct=PJA110 \
     SystemDevice=OP5943L1 \

@@ -5,4 +5,4 @@ ro.product.odm.name=PJE110
 ro.vendor.oplus.regionmark=CN
 
 # Display
-persist.vendor.display.pxlw.iris_feature=0x407f0780
+persist.vendor.display.pxlw.iris_feature=0x41ff0780
